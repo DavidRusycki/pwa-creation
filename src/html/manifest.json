@@ -4,10 +4,10 @@
   "theme_color": "#2a0044",
   "background_color": "#2a0044",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "/~aluno_1020388/pwa/html/index.html",
   "icons": [
     {
-      "src": "https://localhost/image/icon.png",
+      "src": "https://alunosbsn.unidavi.edu.br/~aluno_1020388/pwa/image/icon.png",
       "sizes": "144x144",
       "type": "image/png",
       "finally":"always"
